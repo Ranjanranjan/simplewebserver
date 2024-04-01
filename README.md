@@ -449,6 +449,8 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+![Screenshot 2024-04-01 133301](https://github.com/Ranjanranjan/simplewebserver/assets/130027697/77216fca-498e-46e4-b3b7-3dc6013bc667)
+
 
 
 
